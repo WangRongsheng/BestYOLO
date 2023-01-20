@@ -4,6 +4,7 @@
 python export.py --weights yolov5n.pt --include tfjs
 ```
 此时会生成`yolov5n_web_model`文件夹，将此文件夹复制到`static`文件夹内。
+
 3. 修改`权重文件`、`标签`和`TFjs版本`：
 ```python
 // 权重文件
