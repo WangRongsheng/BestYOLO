@@ -1,4 +1,4 @@
-<div align="center"><img src="./images/home.png" /></div>
+<div align="center"><img src="./images/home1.png" /></div>
 
 BestYOLO是一个完全基于[YOLOv5 v7.0](https://github.com/ultralytics/yolov5/tree/v7.0) 进行改进的开源库，该库将始终秉持以落地应用为导向，以轻便化使用为宗旨，简化各种模块的改进。目前已经集成了基于[torchvision.models](https://pytorch.org/vision/stable/index.html) 里面的模型为Backbone的YOLOv5目标检测算法，同时也将逐渐开源更多YOLOv5应用程序。
 
