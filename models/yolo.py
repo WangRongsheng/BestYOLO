@@ -340,6 +340,14 @@ def parse_model(d, ch):  # model_dict, input_channels(3)
             c2 = ch[f] * args[0] ** 2
         elif m is Expand:
             c2 = ch[f] // args[0] ** 2
+        elif m is MobileNetV3s1 or m is MobileNetV3s2 or m is MobileNetV3s3:
+            c2 = args[0]
+        elif m is efficientnet_b01 or m is efficientnet_b02 or m is efficientnet_b03:
+            c2 = args[0]
+        elif m is RegNety4001 or m is RegNety4002 or m is RegNety4003:
+            c2 = args[0]
+        elif m is resnet181 or m is resnet182 or m is resnet183:
+            c2 = args[0]
         else:
             c2 = ch[f]
 
