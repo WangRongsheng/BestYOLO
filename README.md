@@ -36,3 +36,4 @@
 - [https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)
 - [https://github.com/wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch)
 - [https://github.com/iscyy/yoloair2](https://github.com/iscyy/yoloair2)
+- [https://github.com/positive666/yolo_research](https://github.com/positive666/yolo_research)
