@@ -43,3 +43,4 @@
 - [https://github.com/wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch)
 - [https://github.com/iscyy/yoloair2](https://github.com/iscyy/yoloair2)
 - [https://github.com/positive666/yolo_research](https://github.com/positive666/yolo_research)
+- [https://github.com/Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5)
