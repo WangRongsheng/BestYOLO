@@ -1,0 +1,27 @@
+#main-style {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#obj-show {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed red;
+    width: 640px;
+    height: 480px;
+}
+
+.span-label {
+    overflow: hidden;
+    text-overflow: clip;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+}
+
+#div-video {
+    display: flex;
+}
