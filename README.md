@@ -40,3 +40,4 @@
 - [https://github.com/iscyy/yoloair2](https://github.com/iscyy/yoloair2)
 - [https://github.com/positive666/yolo_research](https://github.com/positive666/yolo_research)
 - [https://github.com/Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5)
+- [https://github.com/yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro)
