@@ -348,6 +348,12 @@ def parse_model(d, ch):  # model_dict, input_channels(3)
             c2 = args[0]
         elif m is resnet181 or m is resnet182 or m is resnet183:
             c2 = args[0]
+        elif m is resnet341 or m is resnet342 or m is resnet343:
+            c2 = args[0]
+        elif m is resnet501 or m is resnet502 or m is resnet503:
+            c2 = args[0]
+        elif m is efficientnet_v2_s1 or m is efficientnet_v2_s2 or m is efficientnet_v2_s3:
+            c2 = args[0]
         else:
             c2 = ch[f]
 
