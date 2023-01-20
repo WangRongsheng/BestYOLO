@@ -8,6 +8,7 @@
 - [Backbone-EfficientNet_B0](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/efficientnet_b0.yaml) 对齐 [efficientnet_b0](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html#torchvision.models.efficientnet_b0)
 - [Backbone-ResNet34]() 对齐 [resnet34](https://pytorch.org/vision/stable/models/generated/torchvision.models.resnet34.html#torchvision.models.resnet34)
 - [Backbone-ResNet50]() 对齐 [resnet50](https://pytorch.org/vision/stable/models/generated/torchvision.models.resnet50.html#torchvision.models.resnet50)
+- [Backbone-EfficientNetV2_s]() 对齐 [efficientnet_v2_s](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_v2_s.html#torchvision.models.efficientnet_v2_s)
 
 > 所有Backbone都支持开启预训练权重，只需添加`pretrained=True`到每个[common.py](https://github.com/WangRongsheng/BestYOLO/blob/main/models/common.py#L870) 的模型中！
 
@@ -20,6 +21,7 @@
 |ResNet18|177|12352447|25.1|
 |ResNet34|223|22460607|45.3|
 |ResNet50|258|27560895|55.7|
+|EfficientNetV2_s|820|22419151|45.8|
 
 # 💻应用
 
