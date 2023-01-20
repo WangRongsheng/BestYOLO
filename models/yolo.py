@@ -354,6 +354,8 @@ def parse_model(d, ch):  # model_dict, input_channels(3)
             c2 = args[0]
         elif m is efficientnet_v2_s1 or m is efficientnet_v2_s2 or m is efficientnet_v2_s3:
             c2 = args[0]
+        elif m is efficientnet_b11 or m is efficientnet_b12 or m is efficientnet_b13:
+            c2 = args[0]
         else:
             c2 = ch[f]
 
