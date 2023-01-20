@@ -19,6 +19,10 @@
 |RegNety400|450|5000191|10.5|
 |ResNet18|177|12352447|25.1|
 
+# 💻应用
+
+
+
 # 📋参考
 
 - [https://github.com/ultralytics/yolov5/tree/v7.0](https://github.com/ultralytics/yolov5/tree/v7.0)
