@@ -23,7 +23,7 @@
 
 - [TFjs部署使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_tfjs_flask)
 
-<div align="center"><img src="./images/tfjs.png" /></div>
+<div align="center"><img src="./images/tfjs1.png" /></div>
 
 # 📋参考
 
