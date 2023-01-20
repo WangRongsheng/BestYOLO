@@ -25,6 +25,10 @@
 
 <div align="center"><img src="./images/tfjs1.png" /></div>
 
+- [Pyqt GUI使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/gui)
+
+<div align="center"><img src="./images/gui.png" /></div>
+
 # 📋参考
 
 - [https://github.com/ultralytics/yolov5/tree/v7.0](https://github.com/ultralytics/yolov5/tree/v7.0)
