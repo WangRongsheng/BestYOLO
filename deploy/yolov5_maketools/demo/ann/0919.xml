@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C:/Users/60332/Desktop/autoLabel/sources/images</folder>
+	<filename>0919.jpg</filename>
+	<path>C:\Users\60332\Desktop\autoLabelC:/Users/60332/Desktop/autoLabel/sources/images\0919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>103</ymin>
+			<xmax>332</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

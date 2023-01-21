@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C:/Users/60332/Desktop/autoLabel/sources/images</folder>
+	<filename>0921.jpg</filename>
+	<path>C:\Users\60332\Desktop\autoLabelC:/Users/60332/Desktop/autoLabel/sources/images\0921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>353</ymin>
+			<xmax>1491</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>

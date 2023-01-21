@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C:/Users/60332/Desktop/autoLabel/sources/images</folder>
+	<filename>0923.jpg</filename>
+	<path>C:\Users\60332\Desktop\autoLabelC:/Users/60332/Desktop/autoLabel/sources/images\0923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2016</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>339</ymin>
+			<xmax>1914</xmax>
+			<ymax>1300</ymax>
+		</bndbox>
+	</object>
+</annotation>
