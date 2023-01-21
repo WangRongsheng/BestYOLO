@@ -37,6 +37,21 @@ BestYOLO是一个完全基于[YOLOv5 v7.0](https://github.com/ultralytics/yolov5
 
 <div align="center"><img src="./images/gui.png" /></div>
 
+# 🌈技巧
+
+- [YOLOv5模型训练测试以及多端部署教学内容](https://lncoder.blog.csdn.net/article/details/124860809)
+- [YOLOV5的FPS计算问题](https://blog.csdn.net/m0_56247038/article/details/126673489)
+- [YOLOv5数据增强详解](https://blog.csdn.net/OpenDataLab/article/details/127788561) ([hyp.scratch-low.yaml](https://github.com/WangRongsheng/BestYOLO/blob/main/data/hyps/hyp.scratch-low.yaml) 和 [augmentations.py](https://github.com/WangRongsheng/BestYOLO/blob/main/utils/augmentations.py))
+- [YOLOv5任意版本添加Grad-CAM热图可视化](https://lncoder.blog.csdn.net/article/details/127274025)
+- [YOLOv5训练出的模型权重加解密方法](https://lncoder.blog.csdn.net/article/details/124560378)
+- [YOLOv5项目代码加密](https://lncoder.blog.csdn.net/article/details/124560237)
+- [YOLOv5：添加漏检率和虚检率输出](https://blog.csdn.net/qq1198768105/article/details/126214241)
+- [YOLOv5解析 | 绘制results.csv文件数据对比图](https://mtyjkh.blog.csdn.net/article/details/125048528)
+
+- [2D目标检测论文大盘点（37篇）](https://yolov5.blog.csdn.net/article/details/123917131)
+- [连夜看了30多篇改进YOLO的中文核心期刊](https://yolov5.blog.csdn.net/article/details/124487528)
+- [知网最新改进 YOLO 核心论文合集 | 22篇创新点速览](https://yolov5.blog.csdn.net/article/details/128292579)
+
 # 📋参考
 
 - [https://github.com/ultralytics/yolov5/tree/v7.0](https://github.com/ultralytics/yolov5/tree/v7.0)
