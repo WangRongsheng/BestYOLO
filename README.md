@@ -37,6 +37,10 @@ BestYOLO是一个完全基于[YOLOv5 v7.0](https://github.com/ultralytics/yolov5
 
 <div align="center"><img src="./images/gui.png" /></div>
 
+- [YOLOv5微信小程序](https://mbd.pub/o/works/256333)
+
+<div align="center"><img src="./images/wechat.webp" /></div>
+
 # 🌈技巧
 
 - [YOLOv5模型训练测试以及多端部署教学内容](https://lncoder.blog.csdn.net/article/details/124860809)
