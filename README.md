@@ -29,6 +29,8 @@ BestYOLO是一个完全基于[YOLOv5 v7.0](https://github.com/ultralytics/yolov5
 |efficientnet_b1|539|6595615|13.8|
 |mobilenet_v2|320|4455295|9.4|
 
+> `.yaml`配置文件中的`depth_multiple`和`width_multiple`可以同时设置为1试试，说不定会有不错的效果。
+
 # 💻应用
 
 - [TFjs部署使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_tfjs_flask)
