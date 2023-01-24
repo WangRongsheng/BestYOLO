@@ -60,6 +60,7 @@ BestYOLO是一个完全基于[YOLOv5 v7.0](https://github.com/ultralytics/yolov5
 - [YOLOv5项目代码加密](https://lncoder.blog.csdn.net/article/details/124560237)
 - [YOLOv5：添加漏检率和虚检率输出](https://blog.csdn.net/qq1198768105/article/details/126214241)
 - [YOLOv5解析 | 绘制results.csv文件数据对比图](https://mtyjkh.blog.csdn.net/article/details/125048528)
+- [YOLOv5的Tricks-图片采样策略——按数据集各类别权重采样](https://clichong.blog.csdn.net/article/details/125224472)
 
 - [2D目标检测论文大盘点（37篇）](https://yolov5.blog.csdn.net/article/details/123917131)
 - [连夜看了30多篇改进YOLO的中文核心期刊](https://yolov5.blog.csdn.net/article/details/124487528)
