@@ -1131,3 +1131,36 @@ class efficientnet_b13(nn.Module):
         self.model = nn.Sequential(*modules)
     def forward(self, x):
         return self.model(x)
+
+'''
+模型：mobilenet_v2
+'''
+class mobilenet_v21(nn.Module):
+    def __init__(self, ignore) -> None:
+        super().__init__()
+        model = models.mobilenet_v2()
+        modules = list(model.children())
+        modules = modules[0][:7]
+        self.model = nn.Sequential(*modules)
+    def forward(self, x):
+        return self.model(x)
+    
+class mobilenet_v22(nn.Module):
+    def __init__(self, ignore) -> None:
+        super().__init__()
+        model = models.mobilenet_v2()
+        modules = list(model.children())
+        modules = modules[0][7:14]
+        self.model = nn.Sequential(*modules)
+    def forward(self, x):
+        return self.model(x)
+    
+class mobilenet_v23(nn.Module):
+    def __init__(self, ignore) -> None:
+        super().__init__()
+        model = models.mobilenet_v2()
+        modules = list(model.children())
+        modules = modules[0][14:19]
+        self.model = nn.Sequential(*modules)
+    def forward(self, x):
+        return self.model(x)
