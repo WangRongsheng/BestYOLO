@@ -16,7 +16,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [Backbone-EfficientNet_B1](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/efficientnet_b1.yaml) 对齐 [efficientnet_b1](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b1.html#torchvision.models.efficientnet_b1)
 - [Backbone-MobileNetV2](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/mobilenet_v2.yaml) 对齐 [mobilenet_v2](https://pytorch.org/vision/stable/models/generated/torchvision.models.mobilenet_v2.html#torchvision.models.mobilenet_v2)
 
-> 所有Backbone都支持开启预训练权重，只需添加`pretrained=True`到每个[common.py](https://github.com/WangRongsheng/BestYOLO/blob/main/models/common.py#L870) 的模型中！
+> 所有Backbone都支持开启预训练权重，只需添加`pretrained=True`到每个[common.py](https://github.com/WangRongsheng/BestYOLO/blob/main/models/common.py#L870) 的模型中。`torchvision.models`中的预训练权重都是基于ImageNet-1K数据集训练的！
 
 |models|layers|parameters|model size(MB)|
 |:-|:-|:-|:-|
