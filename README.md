@@ -85,6 +85,17 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [https://github.com/Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5)
 - [https://github.com/yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro)
 
+# 🔔引用
+
+```python
+@article{2023bestyolo,
+  title={{BestYOLO}: Making research and competition easier},
+  author={Rongsheng Wang},
+  repo={github https://github.com/WangRongsheng/BestYOLO},
+  year={2023}
+}
+```
+
 # 🚀贡献
 [![Forkers repo roster for @WangRongsheng/BestYOLO](https://reporoster.com/forks/WangRongsheng/BestYOLO)](https://github.com/WangRongsheng/BestYOLO/network/members)
 
