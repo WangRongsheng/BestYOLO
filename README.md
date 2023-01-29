@@ -86,6 +86,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [https://github.com/positive666/yolo_research](https://github.com/positive666/yolo_research)
 - [https://github.com/Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5)
 - [https://github.com/yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro)
+- [https://github.com/yhwang-hub/dl_model_deploy](https://github.com/yhwang-hub/dl_model_deploy)
 
 # 🔔引用
 
