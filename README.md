@@ -60,6 +60,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [YOLOv5数据增强详解](https://blog.csdn.net/OpenDataLab/article/details/127788561) ([hyp.scratch-low.yaml](https://github.com/WangRongsheng/BestYOLO/blob/main/data/hyps/hyp.scratch-low.yaml) 和 [augmentations.py](https://github.com/WangRongsheng/BestYOLO/blob/main/utils/augmentations.py))
 - [YOLOv5任意版本添加Grad-CAM热图可视化](https://lncoder.blog.csdn.net/article/details/127274025)
 - [YOLOv5训练出的模型权重加解密方法](https://lncoder.blog.csdn.net/article/details/124560378)
+- [YOLOv5系列：6.修改Soft-NMS,Soft-CIoUNM...](https://blog.csdn.net/qq_38668236/article/details/126245080)
 - [YOLOv5项目代码加密](https://lncoder.blog.csdn.net/article/details/124560237)
 - [YOLOv5：添加漏检率和虚检率输出](https://blog.csdn.net/qq1198768105/article/details/126214241)
 - [YOLOv5解析 | 绘制results.csv文件数据对比图](https://mtyjkh.blog.csdn.net/article/details/125048528)
