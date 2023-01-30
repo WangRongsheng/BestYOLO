@@ -16,6 +16,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [Backbone-EfficientNet_B1](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/efficientnet_b1.yaml) 对齐 [efficientnet_b1](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b1.html#torchvision.models.efficientnet_b1)
 - [Backbone-MobileNetV2](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/mobilenet_v2.yaml) 对齐 [mobilenet_v2](https://pytorch.org/vision/stable/models/generated/torchvision.models.mobilenet_v2.html#torchvision.models.mobilenet_v2)
 - [Backbone-wide_resnet50_2](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/wide_resnet50_2.yaml) 对齐 [wide_resnet50_2](https://pytorch.org/vision/stable/models/generated/torchvision.models.wide_resnet50_2.html#torchvision.models.wide_resnet50_2)
+- [Backbone-VGG11_BN](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/vgg11_bn.yaml) 对齐 [vgg11_bn](https://pytorch.org/vision/stable/models/generated/torchvision.models.vgg11_bn.html#torchvision.models.vgg11_bn)
 
 > 所有Backbone都支持开启预训练权重，只需添加`pretrained=True`到每个[common.py](https://github.com/WangRongsheng/BestYOLO/blob/main/models/common.py#L870) 的模型中。`torchvision.models`中的预训练权重都是基于ImageNet-1K数据集训练的！
 
@@ -32,6 +33,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |efficientnet_b1|539|6595615|13.8|
 |mobilenet_v2|320|4455295|9.4|
 |wide_resnet50_2|258|70887103|142.3|
+|vgg11_bn|140|10442879|21.9|
 
 > `.yaml`配置文件中的`depth_multiple`和`width_multiple`可以同时设置为1试试，说不定会有不错的效果。
 
