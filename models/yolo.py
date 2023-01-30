@@ -358,6 +358,12 @@ def parse_model(d, ch):  # model_dict, input_channels(3)
             c2 = args[0]
         elif m is mobilenet_v21 or m is mobilenet_v22 or  m is mobilenet_v23:
             c2 = args[0]
+        elif m is wide_resnet50_21 or m is wide_resnet50_22 or m is wide_resnet50_23:
+            c2 = args[0]
+        elif m is vgg11_bn1 or m is vgg11_bn2 or m is vgg11_bn3:
+            c2 = args[0]
+        elif m is convnext_tiny1 or m is convnext_tiny2 or m is convnext_tiny3:
+            c2 = args[0]
         else:
             c2 = ch[f]
 
