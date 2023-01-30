@@ -39,6 +39,8 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 
 > `.yaml`配置文件中的`depth_multiple`和`width_multiple`可以同时设置为1试试，说不定会有不错的效果。
 
+> SPP是空间金字塔池化，作用是一个实现一个自适应尺寸的输出。（传统的池化层如最大池化、平均池化的输出大小是和输入大小挂钩的，但是我们最后做全连接层实现分类的时候需要指定全连接的输入，所以我们需要一种方法让神经网络在某层得到一个固定维度的输出，而且这种方法最好不是resize（resize会失真），由此SPP应运而生，其最早是何凯明提出，应用于RCNN模型）。当今的SPP在faster-rcnn上已经发展为今天的Multi-Scale-ROI-Align，而在Yolo上发展为SPPF。
+
 # 💻应用
 
 - [TFjs部署使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_tfjs_flask)
