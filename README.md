@@ -69,6 +69,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [YOLOv5模型训练测试以及多端部署教学内容](https://lncoder.blog.csdn.net/article/details/124860809)
 - [从零到一看懂YOLOv5-OneFlow实现](https://start.oneflow.org/oneflow-yolo-doc/index.html)
 - [YOLOV5的FPS计算问题](https://blog.csdn.net/m0_56247038/article/details/126673489)
+- [YOLO系列的Neck模块介绍](https://blog.csdn.net/baidu_38262850/article/details/126148560)
 - [YOLOv5数据增强详解](https://blog.csdn.net/OpenDataLab/article/details/127788561) ([hyp.scratch-low.yaml](https://github.com/WangRongsheng/BestYOLO/blob/main/data/hyps/hyp.scratch-low.yaml) 和 [augmentations.py](https://github.com/WangRongsheng/BestYOLO/blob/main/utils/augmentations.py))
 - [YOLOv5任意版本添加Grad-CAM热图可视化](https://lncoder.blog.csdn.net/article/details/127274025)
 - [YOLOv5训练出的模型权重加解密方法](https://lncoder.blog.csdn.net/article/details/124560378)
