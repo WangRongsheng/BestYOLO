@@ -58,6 +58,11 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 
 <div align="center"><img src="./images/maketools.png" /></div>
 
+- [YOLOv5单框多标签](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_multi-lable)
+
+<div align="center"><img src="./images/multi-label.png" /></div>
+
+
 
 # 🌈技巧
 
