@@ -24,6 +24,15 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |models|layers|parameters|model size(MB)|
 |:-|:-|:-|:-|
 |yolov5n|214|1766623|3.9|
+|yolov5n-SPP|217|1766623|3.9|
+
+> `.yaml`配置文件中的`depth_multiple`和`width_multiple`可以同时设置为1试试，说不定会有不错的效果。
+
+> SPP是空间金字塔池化，作用是一个实现一个自适应尺寸的输出。（传统的池化层如最大池化、平均池化的输出大小是和输入大小挂钩的，但是我们最后做全连接层实现分类的时候需要指定全连接的输入，所以我们需要一种方法让神经网络在某层得到一个固定维度的输出，而且这种方法最好不是resize（resize会失真），由此SPP应运而生，其最早是何凯明提出，应用于RCNN模型）。当今的SPP在faster-rcnn上已经发展为今天的Multi-Scale-ROI-Align，而在Yolo上发展为SPPF。
+
+|models|layers|parameters|model size(MB)|
+|:-|:-|:-|:-|
+|yolov5n|214|1766623|3.9|
 |MobileNetV3s|313|2137311|4.7|
 |efficientnet_b0|443|6241531|13.0|
 |RegNety400|450|5000191|10.5|
@@ -36,10 +45,6 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |wide_resnet50_2|258|70887103|142.3|
 |vgg11_bn|140|10442879|21.9|
 |convnext_tiny|308|29310175|59.0|
-
-> `.yaml`配置文件中的`depth_multiple`和`width_multiple`可以同时设置为1试试，说不定会有不错的效果。
-
-> SPP是空间金字塔池化，作用是一个实现一个自适应尺寸的输出。（传统的池化层如最大池化、平均池化的输出大小是和输入大小挂钩的，但是我们最后做全连接层实现分类的时候需要指定全连接的输入，所以我们需要一种方法让神经网络在某层得到一个固定维度的输出，而且这种方法最好不是resize（resize会失真），由此SPP应运而生，其最早是何凯明提出，应用于RCNN模型）。当今的SPP在faster-rcnn上已经发展为今天的Multi-Scale-ROI-Align，而在Yolo上发展为SPPF。
 
 # 💻应用
 
