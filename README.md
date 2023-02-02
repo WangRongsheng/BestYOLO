@@ -47,6 +47,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |yolov5n-SPP|217|1766623|
 |yolov5n-SimSPPF|216|1766623|
 |yolov5n-ASPP|214|3831775|
+|yolov5n-RFB|251|1932287|
 
 # 💻应用
 
