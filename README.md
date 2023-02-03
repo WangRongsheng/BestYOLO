@@ -149,6 +149,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [https://github.com/yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro)
 - [https://github.com/yhwang-hub/dl_model_deploy](https://github.com/yhwang-hub/dl_model_deploy)
 - [https://github.com/FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha)
+- [https://github.com/sjinzh/awesome-yolo-object-detection](https://github.com/sjinzh/awesome-yolo-object-detection)
 
 # 🔔引用
 
