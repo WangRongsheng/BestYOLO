@@ -126,6 +126,8 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 ---
 
 1. 小目标检测大杀器：[yolov5-pip](https://github.com/fcakyon/yolov5-pip) 和[sahi](https://github.com/obss/sahi)
+2. 小目标检测大杀器：[填鸭式数据增强](https://github.com/zengwb-lx/Detection_Augmentation)
+> 应注意：训练和推理数据保持相同的数据形式，即不能通过非切图训练，根据切图推理！
 
 # 📋参考
 
