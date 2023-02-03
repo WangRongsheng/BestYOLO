@@ -61,6 +61,11 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |yolov5n-SPPCSPC_group|232|2047967|
 |yolov5n-SimCSPSPPF|229|3375071|
 
+|models|layers|parameters|
+|:-|:-|:-|
+|yolov5n|214|1766623|
+|yolov5n-FPN-AC|188|1858399|
+
 # 💻应用
 
 - [TFjs部署使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_tfjs_flask)
