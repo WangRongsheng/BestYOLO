@@ -67,6 +67,9 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |yolov5n-FPN-AC|188|1858399|
 |yolov5n-PAN-AC|186|1642591|
 |yolov5n-FPN+PAN-AC|160|1734367|
+|yolov5n-FPN-AS|204|2106847|
+|yolov5n-PAN-AS|194|1891039|
+|yolov5n-FPN+PAN-AS|184|2231263|
 
 # 💻应用
 
