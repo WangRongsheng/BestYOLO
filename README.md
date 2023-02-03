@@ -123,6 +123,10 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [连夜看了30多篇改进YOLO的中文核心期刊](https://yolov5.blog.csdn.net/article/details/124487528)
 - [知网最新改进 YOLO 核心论文合集 | 22篇创新点速览](https://yolov5.blog.csdn.net/article/details/128292579)
 
+---
+
+1. 小目标检测大杀器：[yolov5-pip](https://github.com/fcakyon/yolov5-pip) 和[sahi](https://github.com/obss/sahi)
+
 # 📋参考
 
 - [https://github.com/ultralytics/yolov5/tree/v7.0](https://github.com/ultralytics/yolov5/tree/v7.0)
