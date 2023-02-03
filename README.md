@@ -61,6 +61,14 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |yolov5n-SPPCSPC_group|232|2047967|
 |yolov5n-SimCSPSPPF|229|3375071|
 
+- [yolov5n](https://github.com/WangRongsheng/BestYOLO/blob/main/models/yolov5n.yaml)
+- [yolov5n-FPN-AC](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-FPN-AC.yaml)
+- [yolov5n-PAN-AC](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-PAN-AC.yaml)
+- [yolov5n-FPN+PAN-AC](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-FPN+PAN-AC.yaml)
+- [yolov5n-FPN-AS](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-FPN-AS.yaml)
+- [yolov5n-PAN-AS](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-PAN-AS.yaml)
+- [yolov5n-FPN+PAN-AS](https://github.com/WangRongsheng/BestYOLO/blob/main/models/Attention/Self/yolov5n-FPN+PAN-AS.yaml)
+
 |models|layers|parameters|
 |:-|:-|:-|
 |yolov5n|214|1766623|
