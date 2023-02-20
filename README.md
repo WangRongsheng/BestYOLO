@@ -79,6 +79,9 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 |yolov5n-PAN-AS|194|1891039|
 |yolov5n-FPN+PAN-AS|184|2231263|
 
+- [Optimal Transport Assignment](https://github.com/WangRongsheng/BestYOLO/blob/main/train.py#L476)
+- [辅助训练Optimal Transport Assignment](https://github.com/WangRongsheng/BestYOLO/blob/main/train_AuxOTA.py#L255)
+
 # 💻应用
 
 - [TFjs部署使用](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/yolov5_tfjs_flask)
