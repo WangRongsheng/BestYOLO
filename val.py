@@ -208,9 +208,13 @@ def run(
         with dt[1]:
             preds, train_out = model(im) if compute_loss else (model(im, augment=augment), None)
 
-        # Loss
+        # Loss and AUX-OTA
         if compute_loss:
             loss += compute_loss(train_out, targets)[1]  # box, obj, cls
+        
+        # if use OTA loss
+        # if compute_loss:
+        #    loss += compute_loss(train_out, targets, im)[1]  # box, obj, cls
 
         # NMS
         targets[:, 2:] *= torch.tensor((width, height, width, height), device=device)  # to pixels
