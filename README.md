@@ -81,6 +81,9 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 
 - [Optimal Transport Assignment](https://github.com/WangRongsheng/BestYOLO/blob/main/train.py#L476)
 - [辅助训练Optimal Transport Assignment](https://github.com/WangRongsheng/BestYOLO/blob/main/train_AuxOTA.py#L255)
+- [Soft-NMS](https://github.com/WangRongsheng/BestYOLO/blob/main/utils/general-softnms.py)
+
+> 训练不要使用`Soft-NMS`，耗时太久，请在`val`阶段开启，适用于小目标重叠数据。
 
 # 💻应用
 
