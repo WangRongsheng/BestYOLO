@@ -175,3 +175,5 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 [![Forkers repo roster for @WangRongsheng/BestYOLO](https://reporoster.com/forks/WangRongsheng/BestYOLO)](https://github.com/WangRongsheng/BestYOLO/network/members)
 
 [![Stargazers repo roster for @WangRongsheng/BestYOLO](https://reporoster.com/stars/WangRongsheng/BestYOLO)](https://github.com/WangRongsheng/BestYOLO/stargazers)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=WangRongsheng/BestYOLO&type=Date)](https://star-history.com/#WangRongsheng/BestYOLO&Date)
