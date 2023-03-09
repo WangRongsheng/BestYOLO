@@ -163,6 +163,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 
 # 💫工作
 
+- [https://github.com/cv516Buaa/tph-yolov5](https://github.com/cv516Buaa/tph-yolov5)
 - [https://github.com/icey-zhang/SuperYOLO](https://github.com/icey-zhang/SuperYOLO)
 - [https://github.com/luogen1996/OneTeacher](https://github.com/luogen1996/OneTeacher)
 - [https://github.com/AlibabaResearch/efficientteacher](https://github.com/AlibabaResearch/efficientteacher)
