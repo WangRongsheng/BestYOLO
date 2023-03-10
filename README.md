@@ -110,7 +110,9 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 
 <div align="center"><img src="./images/multi-label.png" /></div>
 
+- [Fogging Augment](https://github.com/WangRongsheng/BestYOLO/tree/main/deploy/fog_augment)
 
+<div align="center"><img src="./images/fog_augment.png" /></div>
 
 # 🌈技巧
 
