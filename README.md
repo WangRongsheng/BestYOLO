@@ -86,7 +86,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 > 训练不要使用`Soft-NMS`，耗时太久，请在`val`阶段开启，适用于小目标重叠数据。
 
 - [Decoupled-head](https://blog.csdn.net/weixin_43694096/article/details/127427578)
-- [DCN](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/yolov5n-DCN.yaml)
+- [DCNv2](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/yolov5n-DCN.yaml)
 - [WBF](https://github.com/WangRongsheng/BestYOLO/blob/main/wbf.py)
 
 # 💻应用
