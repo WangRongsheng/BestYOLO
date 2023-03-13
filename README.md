@@ -89,6 +89,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [DCNv2](https://github.com/WangRongsheng/BestYOLO/blob/main/models/backbone/yolov5n-DCN.yaml)
 - [WBF](https://github.com/WangRongsheng/BestYOLO/blob/main/wbf.py)
 - [DCNv3](https://www.bilibili.com/video/BV1LY411z7iE)
+- [NWD](https://www.bilibili.com/video/BV1zY4y197UP/)
 
 # 💻应用
 
