@@ -165,6 +165,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [https://github.com/FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha)
 - [https://github.com/sjinzh/awesome-yolo-object-detection](https://github.com/sjinzh/awesome-yolo-object-detection)
 - [https://github.com/z1069614715/objectdetection_script](https://github.com/z1069614715/objectdetection_script)
+- [https://github.com/icey-zhang/SuperYOLO](https://github.com/icey-zhang/SuperYOLO)
 
 # 💫工作
 
