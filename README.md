@@ -177,6 +177,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - [https://github.com/YOLOonMe/EMA-attention-module](https://github.com/YOLOonMe/EMA-attention-module)
 - [https://github.com/maggiez0138/yolov5_quant_sample](https://github.com/maggiez0138/yolov5_quant_sample)
 - [https://github.com/OutBreak-hui/YoloV5-Flexible-and-Inference](https://github.com/OutBreak-hui/YoloV5-Flexible-and-Inference)
+- https://github.com/Johnathan-Xie/ZSD-YOLO
 
 # 🔔引用
 
