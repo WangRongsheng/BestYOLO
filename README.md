@@ -180,6 +180,7 @@ BestYOLO是一个以科研和竞赛为导向的最好的YOLO实践框架!
 - https://github.com/Johnathan-Xie/ZSD-YOLO
 - https://github.com/chengshuxiao/YOLOv5-ODConvNeXt
 - https://github.com/LSH9832/edgeyolo
+- https://github.com/Koldim2001/YOLO-Patch-Based-Inference
 
 # 🔔引用
 
